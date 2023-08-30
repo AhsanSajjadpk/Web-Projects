@@ -1,0 +1,23 @@
+.navbar{
+    position: sticky;
+    top: 0px;
+    background-color: skyblue;
+    z-index: 1;
+}
+.nav{
+    color: black;
+    /* font-size: 66x !important; */
+    font-size: large;
+}
+.nav:hover{
+    text-decoration: underline;
+    color: blue;
+}
+.navbar:hover{
+    background-color: rgb(160, 219, 245);
+
+}
+.footer{
+    background-color: skyblue;
+
+}
